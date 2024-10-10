@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel = "stylesheet" href = "styles.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<meta charset="utf-8">
+<title>naroch</title>
+</head>
+
+<body background = "fon.jpg">
+<img class = "displayed" src = "naroch.jpg" height = 500>
+<br>
+<p class = "center"><b>Озеро Нарочь</b></p>
+<br>
+<div>
+Нарочь  — озеро в Мядельском районе Минской области.
+Самое большое озеро в Беларуси.
+Входит в Нарочанскую группу озёр (Мястро, Баторино, Бледное).
+Площадь — 79,6 кв.км. Наибольшая глубина — 24,08 м. 
+В Нарочи обитает двадцать 22 вида рыб (в том числе угорь), из них наиболее крупная — щука.
+На озере и в округе имеются гнездовья лебедя-шипуна, малой крачки, скопы, малой поганки.
+</div>
+<br>
+<a href = "index.html"><i>Главная страница - озёра Беларуси</i></a>
+
+
+<body>
+
+<html>

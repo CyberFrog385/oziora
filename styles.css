@@ -1,0 +1,23 @@
+div{
+	font-size: 30px;
+}
+
+img.displayed{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+}
+
+.center{
+	text-align:center;
+	font-size: 35px;
+}
+
+.links{
+	font-size: 20px;
+}
+
+body{
+	cursor:url(cursor1_new.gif), auto;
+}
